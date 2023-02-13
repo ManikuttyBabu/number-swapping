@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: swapping number, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>swapping number -> C:\Users\manikuutty.babu\source\repos\swapping number\swapping number\bin\Debug\net6.0\swapping number.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:00.370 ==========
